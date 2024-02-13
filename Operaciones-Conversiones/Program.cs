@@ -22,3 +22,9 @@ Console.WriteLine("El numero convertido a float es: " + fit);*/
 char c = 'K';
 int ic = Convert.ToInt32(c);
 Console.WriteLine("El caracter convertido a numero entero es: " +ic);*/
+
+/*De entero a caracter*/
+int en = 75;
+char car= Convert.ToChar(en);
+Console.WriteLine("El caracter convertido a numero entero es: "+car);
+
