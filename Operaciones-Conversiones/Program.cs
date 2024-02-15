@@ -148,5 +148,5 @@ Console.WriteLine("La temperatura en grados Fahrenheit es: " + fah);
 Console.WriteLine("Ingrese la temperatura en grados Fahrenheit: ");
 double fa = Convert.ToDouble(Console.ReadLine());
 double celi =  (fa - 32)/1.8;
-Console.WriteLine("La temperatura en grados Celsius es: ---------------------------------" + celi);
+Console.WriteLine("La temperatura en grados Celsius es: commit and push" + celi);
 
